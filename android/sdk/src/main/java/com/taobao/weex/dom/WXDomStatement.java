@@ -1136,7 +1136,8 @@ class WXDomStatement {
           return "startAnimationByCall";
         }
       });
-      mDirty=true; //修复的还挺快，我在0.8上就这么做了， by hanpengfei
+      mDirty=true;
+       //修复的还挺快，我在0.8上就这么做了， by hanpengfei
     }
   }
 
